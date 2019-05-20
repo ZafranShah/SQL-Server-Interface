@@ -1,0 +1,12 @@
+{
+	"DataBaseDriver": "SQL Server",
+	"DatabaseServerName": "PC\\SQLEXPRESS",
+	"DataBaseName": "sqlData2019",
+	"UserName": "",
+	"password":"",
+	"Table": "",
+	"ColumnName": "newcol"
+	
+
+
+}
